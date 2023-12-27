@@ -1,0 +1,39 @@
+body{
+    background: url('https://e1.pxfuel.com/desktop-wallpaper/393/444/desktop-wallpaper-pokemon-pokeball-%E2%9D%A4-for-ultra-tv-poke-balls.jpg') center/cover;
+}
+
+.container{
+    border-radius: 10px;
+    background-color: #FFC107;
+    height: 400px; 
+    width: 400px;
+    margin-top:10%;
+    text-align: center;
+    padding: 5em 0;
+    color:black;
+    margin-bottom: 30px;
+
+}
+
+.btn{
+    border-radius: 3px;
+    color:aliceblue;
+    background-color: red;
+}
+
+h2{
+    font-family: pokemon_solidnormal; 
+}
+
+.imagen{
+    border-radius: 10px;
+    background-color: #FFC107;
+    height: 600px; 
+    width: 400px;
+    margin-top:10%;
+    text-align: center;
+    padding: 5em 0;
+    color:black;
+    margin-bottom: 30px;
+}
+
